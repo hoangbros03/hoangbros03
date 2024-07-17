@@ -1,5 +1,5 @@
 # 💫 About Me:
-An undergraduate student who wants to make an impact for the improvement of society and extend the human potential using the power of artificial intelligence.
+An undergraduate student who wants to make an impact by bringing AI solutions into daily life.
 
 
 # 💻 Tech Stack:

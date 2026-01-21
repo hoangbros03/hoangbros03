@@ -1,5 +1,5 @@
 # 💫 About Me:
-An undergraduate student who wants to make an impact by bringing AI solutions into daily life.
+An experienced AI Engineer & Researcher who wants to make an impact by bringing AI solutions into daily life.
 
 
 # 💻 Tech Stack:
